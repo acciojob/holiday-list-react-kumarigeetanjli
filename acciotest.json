@@ -1,4 +1,3 @@
 {
-    "testRepo": "holiday-list-testcases",
-    "pathToFile": "__tests__/App.test.js"
-}
+    "testRepo": "holiday-list-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
